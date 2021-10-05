@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/assignment-2.8-justin/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/assignment-2.8-justin/static/js/main.999556be.chunk.js",
+    "main.js.map": "/assignment-2.8-justin/static/js/main.999556be.chunk.js.map",
+    "runtime-main.js": "/assignment-2.8-justin/static/js/runtime-main.2475b6be.js",
+    "runtime-main.js.map": "/assignment-2.8-justin/static/js/runtime-main.2475b6be.js.map",
+    "static/js/2.460411da.chunk.js": "/assignment-2.8-justin/static/js/2.460411da.chunk.js",
+    "static/js/2.460411da.chunk.js.map": "/assignment-2.8-justin/static/js/2.460411da.chunk.js.map",
+    "static/js/3.51a27579.chunk.js": "/assignment-2.8-justin/static/js/3.51a27579.chunk.js",
+    "static/js/3.51a27579.chunk.js.map": "/assignment-2.8-justin/static/js/3.51a27579.chunk.js.map",
+    "index.html": "/assignment-2.8-justin/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/assignment-2.8-justin/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.460411da.chunk.js.LICENSE.txt": "/assignment-2.8-justin/static/js/2.460411da.chunk.js.LICENSE.txt",
+    "static/media/light-off.e0edf900.png": "/assignment-2.8-justin/static/media/light-off.e0edf900.png",
+    "static/media/light-on.5beb6bef.png": "/assignment-2.8-justin/static/media/light-on.5beb6bef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2475b6be.js",
+    "static/js/2.460411da.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.999556be.chunk.js"
+  ]
+}
